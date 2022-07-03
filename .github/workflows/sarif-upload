@@ -1,4 +1,4 @@
-name: SARIF upload on self-hosted runner
+name: SARIF upload
 
 on: 
   workflow_dispatch:
